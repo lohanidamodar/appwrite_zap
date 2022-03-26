@@ -1,0 +1,4 @@
+// By importing the styles for the root component, we also get the styles of
+// every component used by it.
+@use "package:appwrite_zap/_app.zap";
+
